@@ -32,5 +32,12 @@ body {
 }
 
 .bg-red {
-    background-color: rgb(239, 177, 217);
+    background-color: rgba(206, 132, 180, 0.282);
+    padding: 2rem;
+    border-radius: 1rem;
+    border: 5px dotted rgb(89, 2, 250);
+    margin: 10px;
+    text-align: center;
 }
+
+.my-title  
