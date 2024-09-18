@@ -40,4 +40,10 @@ body {
     text-align: center;
 }
 
-.my-title  
+.bg-blue {
+    background-color: rgb(240, 204, 236);
+    padding: 2rem;
+    border-radius: 2rem;
+    border: 5px dotted rgb(82, 47, 255);
+    text-align: center;
+}
