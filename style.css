@@ -41,9 +41,17 @@ body {
 }
 
 .bg-blue {
-    background-color: rgb(240, 204, 236);
+    background-color: rgb(216, 146, 252);
     padding: 2rem;
     border-radius: 2rem;
     border: 5px dotted rgb(82, 47, 255);
     text-align: center;
+}
+
+.bg-yellow {
+    background-color: rgb(216, 146, 252);
+    padding: 1rem;
+    border: 5px dotted rgb(52, 2, 250);
+    text-align: center;
+    border-radius: 2rem;
 }
