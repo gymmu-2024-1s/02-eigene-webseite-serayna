@@ -42,7 +42,7 @@ body {
 
 .bg-blue {
     background-color: rgb(249, 188, 240);
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 2rem;
     border: 5px dotted rgb(246, 4, 217);
     text-align: center;
