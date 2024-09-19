@@ -35,7 +35,7 @@ body {
     background-color: rgba(206, 132, 180, 0.282);
     padding: 2rem;
     border-radius: 1rem;
-    border: 5px dotted rgb(89, 2, 250);
+    border: 5px dotted rgb(2, 209, 250);
     margin: 10px;
     text-align: center;
 }
@@ -44,7 +44,7 @@ body {
     background-color: rgb(216, 146, 252);
     padding: 2rem;
     border-radius: 2rem;
-    border: 5px dotted rgb(82, 47, 255);
+    border: 5px dotted rgb(255, 92, 47);
     text-align: center;
 }
 
