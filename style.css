@@ -41,10 +41,10 @@ body {
 }
 
 .bg-blue {
-    background-color: rgb(252, 146, 236);
+    background-color: rgb(249, 188, 240);
     padding: 2rem;
     border-radius: 2rem;
-    border: 5px dotted rgb(255, 92, 47);
+    border: 5px dotted rgb(246, 4, 217);
     text-align: center;
 }
 
