@@ -16,9 +16,9 @@
             <!-- Im header wird der Kopf der Webseite angegeben.
             Dies ist aber nur ein Struktur-Element. Damit der Header auch immer
             ganz oben angezeigt wird, braucht es noch das richtige CSS dafür. -->
-            <h1>Webseite von Serayna🌺</h1>
+            <h1>Webseite von Serayna🌺</h1> 
         </header>
-
+    
         <nav>
             <!-- Das Navigations-Element beinhaltet eine Liste von Links, mit
             denen man auf Unterwebseiten kommt. 
@@ -34,6 +34,10 @@
                 </li>
             </ul>
         </nav>
+        <svg height="300" width="300"></svg>
+            <circle cx="100" cy="150" r="40" fill="hotpink"/>
+            <circle cx="200" cy="150" r="40" fill="hotpink"/>
+        </svg>
 
         <main>
             <!-- Im Hauptelement der Webseite kommt der ganze Inhalt den wir
@@ -86,6 +90,14 @@
                 </div>
             </section>
         </main>
+        <svg height="300" width="300" version="1.1">
+            <path id="circle-motion" d="M 50 150 L 250 150 Z" stroke="black" />
+            <circle r="40" fill="red">
+              <animateMotion dur="5s" repeatCount="indefinite">
+                <mpath xlink:href="#circle-motion"/>
+              </animateMotion>
+            </circle>
+        </svg>
 
         <footer>
             <!-- Hier kommt die Fusszeile der Webseite -->
