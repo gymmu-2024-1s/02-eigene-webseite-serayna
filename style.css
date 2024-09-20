@@ -56,3 +56,10 @@ body {
     border-radius: 2rem;
     font-size: large;
 }
+.bg-white {
+    background-color: rgb(249, 188, 240);
+    padding: 1rem;
+    text-align: center;
+    border-radius: 2rem;
+    font-size: large;
+}
