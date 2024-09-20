@@ -63,3 +63,8 @@ body {
     border-radius: 2rem;
     font-size: large;
 }
+
+.image {
+    width: 20%;
+    padding: 1rem;
+}
