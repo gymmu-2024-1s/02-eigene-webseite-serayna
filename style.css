@@ -68,3 +68,10 @@ body {
     width: 20%;
     padding: 1rem;
 }
+
+.spread {
+    transition: all 1s ease-in-out;
+}
+.spreader:hover {
+    letter-spacing: 1rem;
+}

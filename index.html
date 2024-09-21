@@ -34,6 +34,7 @@
                 </li>
             </ul>
         </nav>
+   
         <svg height="300" width="300">
             <circle cx="121" cy="150" r="30" fill="hotpink"/>
             <circle cx="175" cy="150" r="30" fill="hotpink"/>
@@ -41,10 +42,7 @@
                     <path fill="hotpink" stroke="hotpink" stroke-width="5" d="M 101 169 L 197 166 L 150 230 Z"/>
                      height="300" width="300">
                      <circle cx="150" cy="160" r="20" fill="hotpink"/>
-                        
-                    
-                
-        </svg>
+                     </svg>
         <main>
             <!-- Im Hauptelement der Webseite kommt der ganze Inhalt den wir
             anzeigen möchten. Dieser ist meistens in Section-Elemente
@@ -54,9 +52,12 @@
                 <!-- Dieses Element wird verwendet um einen Abschnitt auf der
                 Webseite vom Rest abzutrennen. Für Abschnitte in einem Text
                 verwendet man das p-Element. -->
-                <main class="bg-red">
+                <main class="bg-red"> 
+                    <element class="spread">
+                    <element class="spreader" :hover>
                     <h2> ➡️ Willkommen auf meiner Webseite! ⬅️</h2>
-                    
+                </element>
+            </element>
                 </main>
                 <p>
                     <!-- Mit dem p-Element Teilt man einen Text in Paragraphen
