@@ -75,3 +75,10 @@ body {
 .spreader:hover {
     letter-spacing: 1rem;
 }
+
+.img-center {
+    text-align: center;
+}
+.img-center > img {
+    width: 10%;
+}
